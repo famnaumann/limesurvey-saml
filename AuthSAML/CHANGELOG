@@ -1,0 +1,10 @@
+Changelog
+=========
+
+
+
+
+0.1 Initial SAML plugin
+0.2. modified by Axel Naumann on 27.12.2018
+- Update des Plugins auf Version 3.x von limesurvey
+- Aufnahme einer grundsätzlichen Gruppenberechtigungsprüfug (memberof)
